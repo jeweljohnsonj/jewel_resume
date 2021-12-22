@@ -1,31 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: jeweljohnsonj/jewel_resume.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jewel Johnson
+title: BS-MS Dual Degree in Biological Sciences 
+email: jeweljohnsonj@gmail.com
+phone: +(91) 8301082500
+# website: https://jeweljohnsonj.github.io/jeweljohnson.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: jeweljohnsonj
+github_username:  jeweljohnsonj
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -33,7 +34,7 @@ youtube_username: globalmtb
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://jeweljohnsonj.github.io/jeweljohnson.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,69 +49,127 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with the Asian Honeybee (*Apis cerana*), the Giant Honeybee (*Apis dorsata*) and the Greater Banded Hornet (*Vespa tropica*). I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R. In my free time I write science articles and various tutorials in my blog named ['One-carat Blog'](https://jeweljohnsonj.github.io/jeweljohnson.github.io/). Currently, I am applying for a PhD.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+      - layout: top-middle
+        title:  Integrated BS-MS Dual Degree in Biological Sciences
+        caption: August 2015 - August 2020
+        sub_title: Indian Institute of Science Education and Research Thiruvananthapuram
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          CGPA 8.31/10
+      - layout: top-middle
+        title:  Biology with Maths, Class XII
+        caption: August 2013 - June 2015
+        sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
+        quote: >
+          Percentage marks: 93%
+      - layout: top-middle
+        title:  Class X
+        caption: June 2013
+        sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
+        quote: >
+          Percentage marks: 90%
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Proficient in using <mark>ggplot2</mark>, <mark>ggstatsplot</mark>, <mark>tidyr</mark>, <mark>dplyr</mark>, <mark>Rmarkdown</mark> and <mark>distill</mark> packages in R. Experience in doing behavioural experiments in honeybees and hornets. Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>. Adobe Illustrator and PremierePro. Photography. Presentation and communication skills. Team-work and organizational decision making.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Research Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Major Degree Thesis
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: IISER-TVM, India
+        caption: May 2019 - April 2020
+        quote: >
+          Limits and adaptations for nocturnal vision in the Giant Honeybee (Apis dorsata)
+        description: | # this will include new lines to allow paragraphs
+            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day adapted eyes, it is not known how *A. dorsata* can forage at low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata* in lowlight conditions.
+
+            During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning experiments and conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
+      - layout: left
+        title: Semester Project
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: IISER-TVM, India
+        caption: May 2018 - Dec 2018
+        quote: >
+          Morphometric analysis on Asian Bees
+        description: | # this will include new lines to allow paragraphs
+            For this project, I managed and stored around 100 different species of insect specimens and performed basic morphometric measurements on them using the [ImageJ](https://imagej.nih.gov/ij/features.html) software.
+      - layout: left
+        title: Summer Internship
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: IISER-TVM, India
+        caption: May 2018 - Dec 2018
+        quote: >
+          Investigating the role of phenylalanine in the Asian Honeybee (Apis cerana)
+        description: | # this will include new lines to allow paragraphs
+            It is known that honeybees rely on pollen as their primary source of protein and we also know that flowers primarily pollinated by honeybees contain a cocktail of amino acids in its nectar. In this project I investigated the role of phenylalanine, an essential amino acid for honeybees in terms of learning in the Asian Honeybee (*Apis cerana*).
+
+            During this project I performed classical conditioning experiments and did data analysis using R.
+      - layout: left
+        title: Summer Internship
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: IISER-TVM, India
+        caption: May 2017 - June 2017
+        quote: >
+          Visual associative learning and olfactory preferences of the Greater Banded Hornet (Vespa tropica)
+        description: | # this will include new lines to allow paragraphs
+            The Greater Banded Hornet (*Vespa tropica*) is a hymenopteran predator who is declared as an invasive species by many countries in Europe. They are also generalists who employ a wide variety of foraging strategies which makes them excellent model organisms to study cognition and vision.
+
+            In this study, I performed classical conditioning experiments to study colour and shape learning abilities in *V. tropica*. Later I checked their olfactory preferences by performing a dual choice experiment. The data from the experiments were analyzed using R. I also received first-hand experience in writing the manuscript of this study which was later published in [2021](https://doi.org/10.1007/s00040-021-00820-w). The study also garnered media attention from [The Wire Science](https://science.thewire.in/the-sciences/greater-banded-hornets-vespa-tropica-miriam-lehrer-hema-somanathan/).
+
+  - title: Awards and Honors
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Achieved all India rank of **52** in Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper. GATE score 606 and GATE Reg no: EY20S57226002.
+      - Achieved all India rank of **91** in Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970). This is the qualifying exam for PhD and lectureship in India.
+      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For the duration of 5 years of study in IISER-TVM.
+
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Balamurali, G. S., Reshnuraj, R. S., Johnson, J., Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w)
+
+  - title: Conferences & Presentations
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Poster: Visual associative learning and odour preferences in a hymenopteran predator
+        - Biology across kingdoms : School of Biology Symposium and Department day (September 2019) | IISER-TVM, India
+      - Presentation: Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)
+        - Second Bangalore Meeting On Asian Bees (March 2019) | NCBS Bangalore, India
+      - Poster: Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)
+        - Young Ecologists Talk & Interact (YETI) 2018 (January 2018) | Maharaja Sayajirao University of Baroda, India
+
+  - title: Extra Curricular Activities
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/jeweljohnson.github.io/project1.html) for <mark>ggplot2</mark>, <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
+      - Writes science articles at [One-cata Blog](https://jeweljohnsonj.github.io/jeweljohnson.github.io/)
+      - Makes data visualizations at [whatsthisdata](https://twitter.com/whatsthisdata), an initiative to promote science communication for the public.
+      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus.
+      - Initiated [‘EcoGO’](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via iNaturalist.
+      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016).
+
+  - title: Interests and Hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Photographing wildlife ([500px account](https://bit.ly/3CtjDa1))
+      - Birding
+      - Trekking and cycling
+      - Video games
+      - Listening to instrumental songs (math-rock)
+      - Postal stamp and coin collection
 
 # Footer
 footer_show_references: true
