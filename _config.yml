@@ -77,7 +77,7 @@ content:
   - title: Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Proficient in using <mark>ggplot2</mark>, <mark>ggstatsplot</mark>, <mark>tidyr</mark>, <mark>dplyr</mark>, <mark>Rmarkdown</mark> and <mark>distill</mark> packages in R. Experience in doing behavioural experiments in honeybees and hornets. Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>. Adobe Illustrator and PremierePro. Photography. Presentation and communication skills. Team-work and organizational decision making.
+      Proficient in using <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> <mark>dplyr</mark> <mark>Rmarkdown</mark> and <mark>distill</mark> packages in R. Experience in doing behavioural experiments in honeybees and hornets. Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>. Adobe Illustrator and PremierePro. Photography. Presentation and communication skills. Team-work and organizational decision making.
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -144,15 +144,15 @@ content:
   - title: Conferences & Presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Poster: Visual associative learning and odour preferences in a hymenopteran predator  <span>&#10072;</span> Biology across kingdoms : School of Biology Symposium and Department day (September 2019)  <span>&#10072;</span> IISER-TVM, India
-      - Presentation: Role of phenylalanine in learning in Asian honeybee (*Apis cerana*) <span>&#10072;</span> Second Bangalore Meeting On Asian Bees (March 2019) <span>&#10072;</span> NCBS Bangalore, India
-      - Poster: Visual associative learning in the Greater Banded Hornet (*Vespa tropica*) <span>&#10072;</span> Young Ecologists Talk & Interact (YETI) 2018 (January 2018) <span>&#10072;</span> Maharaja Sayajirao University of Baroda, India
+      - **Poster**: Visual associative learning and odour preferences in a hymenopteran predator  <span>&#10072;</span> Biology across kingdoms : School of Biology Symposium and Department day (September 2019)  <span>&#10072;</span> IISER-TVM, India
+      - **Presentation**: Role of phenylalanine in learning in Asian honeybee (*Apis cerana*) <span>&#10072;</span> Second Bangalore Meeting On Asian Bees (March 2019) <span>&#10072;</span> NCBS Bangalore, India
+      - **Poste**r: Visual associative learning in the Greater Banded Hornet (*Vespa tropica*) <span>&#10072;</span> Young Ecologists Talk & Interact (YETI) 2018 (January 2018) <span>&#10072;</span> Maharaja Sayajirao University of Baroda, India
 
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/jeweljohnson.github.io/project1.html) for <mark>ggplot2</mark>, <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
-      - Writes science articles at [One-cata Blog](https://jeweljohnsonj.github.io/jeweljohnson.github.io/)
+      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/jeweljohnson.github.io/project1.html) for <mark>ggplot2</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
+      - Writes science articles at [One-cata Blog](https://jeweljohnsonj.github.io/jeweljohnson.github.io/).
       - Makes data visualizations at [whatsthisdata](https://twitter.com/whatsthisdata), an initiative to promote science communication for the public.
       - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus.
       - Initiated [‘EcoGO’](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via iNaturalist.
