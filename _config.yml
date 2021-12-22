@@ -145,11 +145,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Poster: Visual associative learning and odour preferences in a hymenopteran predator
-        - Biology across kingdoms : School of Biology Symposium and Department day (September 2019) | IISER-TVM, India
+        - Biology across kingdoms : School of Biology Symposium and Department day (September 2019). IISER-TVM, India
       - Presentation: Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)
-        - Second Bangalore Meeting On Asian Bees (March 2019) | NCBS Bangalore, India
+        - Second Bangalore Meeting On Asian Bees (March 2019). NCBS Bangalore, India
       - Poster: Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)
-        - Young Ecologists Talk & Interact (YETI) 2018 (January 2018) | Maharaja Sayajirao University of Baroda, India
+        - Young Ecologists Talk & Interact (YETI) 2018 (January 2018). Maharaja Sayajirao University of Baroda, India
 
   - title: Extra Curricular Activities
     layout: text
