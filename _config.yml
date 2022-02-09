@@ -139,7 +139,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w)
+      - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w). (You can email me if you want a copy)
 
   - title: Conferences & Presentations
     layout: text
