@@ -77,7 +77,13 @@ content:
   - title: Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Proficient in using <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> <mark>dplyr</mark> <mark>Rmarkdown</mark> and <mark>distill</mark> packages in R. Experience in doing behavioural experiments in honeybees and hornets. Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>. Adobe Illustrator and PremierePro. Photography. Presentation and communication skills. Team-work and organizational decision making.
+      - Proficient in using <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> <mark>dplyr</mark> <mark>Rmarkdown</mark> and <mark>distill</mark> packages in R
+      - Experience in doing behavioural experiments in honeybees and hornets
+      - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>
+      - Adobe Illustrator and PremierePro
+      - Photography
+      - Presentation and communication skills
+      - Team-work
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
