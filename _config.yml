@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with the Asian Honeybee (*Apis cerana*), the Giant Honeybee (*Apis dorsata*) and the Greater Banded Hornet (*Vespa tropica*). I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R. In my free time I write science articles and various tutorials in my blog named ['one carat blog'](https://jeweljohnsonj.github.io/one-carat-blog/). Currently, I am applying for a PhD.
+  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with the Asian Honeybee (*Apis cerana*), the Giant Honeybee (*Apis dorsata*) and the Greater Banded Hornet (*Vespa tropica*). I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R.
 
 content:
   - title: Education # Title for the section
