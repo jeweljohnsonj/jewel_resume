@@ -157,7 +157,7 @@ content:
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/project1.html) for <mark>ggplot2</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
+      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/) for <mark>ggplot2</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
       - Makes data visualizations at [whatsthisdata](https://twitter.com/whatsthisdata), an initiative to promote science communication for the public.
       - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus.
       - Initiated [‘EcoGO’](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via iNaturalist.
