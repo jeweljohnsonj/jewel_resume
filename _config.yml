@@ -166,13 +166,12 @@ content:
   - title: Interests and Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Photographing wildlife ([500px account](https://bit.ly/3CtjDa1))
+      - Photographing wildlife
       - Birding
       - Teaching
       - Trekking and cycling
 
 
-      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_may_2022.pdf).
 
 # Footer
 footer_show_references: true
