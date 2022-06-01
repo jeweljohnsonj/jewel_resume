@@ -95,9 +95,9 @@ content:
         sub_title: IISER-TVM, India
         caption: May 2019 - April 2020
         quote: >
-          Limits and adaptations for nocturnal vision in the Giant Honeybee (Apis dorsata)
+           Visual ecology of the giant honey bee (Apis dorsata)
         description: | # this will include new lines to allow paragraphs
-            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day adapted eyes, it is not known how *A. dorsata* can forage at low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata* in lowlight conditions.
+            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day adapted eyes, it is not known how *A. dorsata* can forage at low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata*.
 
             During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning experiments and conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
       - layout: left
@@ -171,8 +171,6 @@ content:
       - Birding
       - Teaching
       - Trekking and cycling
-      - Listening to instrumental songs
-      - Postal stamp and coin collection
 
 
       For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_may_2022.pdf).
