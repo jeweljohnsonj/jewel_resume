@@ -13,7 +13,7 @@ phone: +(91) 8301082500
 # website: https://jeweljohnsonj.github.io/jeweljohnson.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: jeweljohnsonj
@@ -166,12 +166,12 @@ content:
   - title: Interests and Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Photographing wildlife
+      - [Photographing wildlife](https://bit.ly/3CtjDa1)
       - Birding
       - Teaching
       - Trekking and cycling
 
-
+     For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_may_2022.pdf).
 
 # Footer
 footer_show_references: true
