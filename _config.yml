@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with social insects. I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R. Currently I am looking a PhD position.
+  Hi, my name's Jewel Johnson. I completed my master's in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have experience in doing behavioural experiments with social insects. I am also proficient in R programming and have experience in data visualization and wrangling using various packages available in R. Currently, I am looking for PhD positions
 
 content:
   - title: Education # Title for the section
@@ -99,7 +99,7 @@ content:
         quote: >
            Visual ecology of the Giant Honey Bee (Apis dorsata)
         description: | # this will include new lines to allow paragraphs
-            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day adapted eyes, it is not known how *A. dorsata* can forage at low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata*.
+            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day-adapted eyes, it is not known how *A. dorsata* can forage in low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata*.
 
             During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning and Y-maze experiments and, conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
       - layout: left
@@ -121,9 +121,9 @@ content:
         quote: >
           Investigating the role of phenylalanine in the Asian Honeybee (Apis cerana)
         description: | # this will include new lines to allow paragraphs
-            It is known that honeybees rely on pollen as their primary source of protein and we also know that flowers primarily pollinated by honeybees contain a cocktail of amino acids in its nectar. In this project I investigated the role of phenylalanine, an essential amino acid for honeybees in terms of learning in the Asian Honeybee (*Apis cerana*).
+            It is known that honeybees rely on pollen as their primary source of protein and we also know that flowers which are primarily pollinated by honeybees contain a cocktail of amino acids in their nectar. In this project, I investigated the role of phenylalanine, an essential amino acid for honeybees in terms of learning in the Asian Honeybee (*Apis cerana*).
 
-            During this project I performed classical conditioning experiments and did data analysis using R.
+            During this project, I performed classical conditioning experiments and did data analysis using R.
       - layout: left
         title: Summer Internship
         # link: boringcompany.com
@@ -140,9 +140,10 @@ content:
   - title: Awards and Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Achieved all India rank of **52** in Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper. GATE score 606 and GATE Reg no: EY20S57226002.
-      - Achieved all India rank of **91** in Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970). This is the qualifying exam for PhD and lectureship in India.
-      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For the duration of 5 years of study in IISER-TVM.
+      - Achieved all India rank of **52** in Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper. GATE score 606 and GATE Reg no: EY20S57226002 (2020)
+      - Achieved all India rank of **91** in Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970). This is the qualifying exam for PhD and lectureship in India. (2019)
+      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
+      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020)
 
   - title: Publications
     layout: text
@@ -161,18 +162,19 @@ content:
     content: | # this will include new lines to allow paragraphs
       - R programming enthusiast: Made beginner’s level tutorials about [<mark>ggplot2</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project1.html) [<mark>ggpubr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project4.html) [<mark>tidyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project5.html) and [<mark>dplyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project6.html) packages in R.
       - Created a [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/articles/stat/project1.html) series on "Basic statistics and how to do them in R"
-      - Co founder of [whatsthisdata](https://twitter.com/whatsthisdata), a twitter handle promoting science communication through data visualization for the public
-      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus
+      - Co-founder of [whatsthisdata](https://twitter.com/whatsthisdata), a Twitter handle promoting science communication through data visualization for the public
+      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safeguarding the greenery on the campus
       - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
-      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016).
 
   - title: Interests and Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [Photographing wildlife](https://bit.ly/3CtjDa1)
+      - Badminton
       - Birding
       - Teaching
       - Trekking and cycling
+      - Listening to music
 
 
       For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_may_2022.pdf).
