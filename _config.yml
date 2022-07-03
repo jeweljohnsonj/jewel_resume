@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with the Asian Honeybee (*Apis cerana*), the Giant Honeybee (*Apis dorsata*) and the Greater Banded Hornet (*Vespa tropica*). I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R.
+  Hi, my name's Jewel Johnson. I completed my Masters in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have had experience in doing experiments with social insects. I am also proficient in R programming and have experience in data visualization and data wrangling using various packages available in R. Currently I am looking a PhD position.
 
 content:
   - title: Education # Title for the section
@@ -77,13 +77,15 @@ content:
   - title: Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming: <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> <mark>dplyr</mark> <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark>
-      - Experience in doing behavioural experiments in honeybees and hornets
-      - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark>
-      - Adobe Illustrator and PremierePro
-      - Photography
+      - Experience in training and handling honeybees and hornets for behavioural experiments
+      - Experience in honeybee keeping and maintaining honeybee colonies
+      - Experience in using spectrophotometer (Maya 2000, Ocean Optics, USA)
+      - R programming enthusiast: Knows <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages
+      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a personal blog using quarto
+      - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark> languages
+      - Have an Indian Union Driving licence (4-wheeler and 2-wheeler)
+      - Wildlife Photography
       - Presentation and communication skills
-      - Driving (4-wheeler and 2-wheeler)
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,7 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day adapted eyes, it is not known how *A. dorsata* can forage at low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata*.
 
-            During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning experiments and conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
+            During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning and Y-maze experiments and, conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
       - layout: left
         title: Semester Project
         # link: boringcompany.com
@@ -157,10 +159,11 @@ content:
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast. Made [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/) for <mark>ggplot2</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
-      - Makes data visualizations at [whatsthisdata](https://twitter.com/whatsthisdata), an initiative to promote science communication for the public.
-      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus.
-      - Initiated [‘EcoGO’](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via iNaturalist.
+      - R programming enthusiast: Made beginner’s level tutorials about [<mark>ggplot2</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project1.html) [<mark>ggpubr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project4.html) [<mark>tidyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project5.html) and [<mark>dplyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project6.html) packages in R.
+      - Created a [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/articles/stat/project1.html) series on "Basic statistics and how to do them in R"
+      - Co founder of [whatsthisdata](https://twitter.com/whatsthisdata), a twitter handle promoting science communication through data visualization for the public
+      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safe guarding the greenery in the campus
+      - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
       - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016).
 
   - title: Interests and Hobbies
