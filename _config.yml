@@ -10,7 +10,7 @@ name: Jewel Johnson
 title: BS-MS Dual Degree in Biological Sciences 
 email: jewel15@alumni.iisertvm.ac.in
 phone: +(91) 8301082500
-# website: https://jeweljohnsonj.github.io/jeweljohnson.github.io/
+# website: https://one-carat-blog.netlify.app/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -160,8 +160,8 @@ content:
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast: Made beginner’s level tutorials about [<mark>ggplot2</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project1.html) [<mark>ggpubr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_viz/project4.html) [<mark>tidyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project5.html) and [<mark>dplyr</mark>](https://jeweljohnsonj.github.io/one-carat-blog/articles/data_man/project6.html) packages in R.
-      - Created a [tutorials](https://jeweljohnsonj.github.io/one-carat-blog/articles/stat/project1.html) series on "Basic statistics and how to do them in R"
+      - R programming enthusiast: Made beginner’s level [tutorials](https://one-carat-blog.netlify.app/tutorials.html) about <mark>ggplot2</mark> <mark>ggpubr</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
+      - Created a [tutorials](https://one-carat-blog.netlify.app/tutorials.html) series on "Basic statistics and how to do them in R"
       - Co-founder of [whatsthisdata](https://twitter.com/whatsthisdata), a Twitter handle promoting science communication through data visualization for the public
       - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safeguarding the greenery on the campus
       - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
