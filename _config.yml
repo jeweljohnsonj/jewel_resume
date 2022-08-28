@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jewel Johnson. I completed my master's in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have experience in doing behavioural experiments with social insects. I am also proficient in R programming and have experience in data visualization and wrangling using various packages available in R. Currently, I am looking for PhD positions
+  Hi, my name's Jewel Johnson. I completed my master's in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have experience in doing behavioural experiments with social insects. I am also proficient in R programming and have experience in data visualization, data wrangling and statistical modelling using various packages available in R. I also loves blogging and I have embarked on a journey to document my skills in my blog. Currently, I am looking for PhD positions.
 
 content:
   - title: Education # Title for the section
@@ -74,18 +74,24 @@ content:
         quote: >
           Percentage marks: 90%
 
-  - title: Skillset
+  - title: Experimental Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Experience in training and handling honeybees and hornets for behavioural experiments
       - Experience in honeybee keeping and maintaining honeybee colonies
       - Experience in using spectrophotometer (Maya 2000, Ocean Optics, USA)
-      - R programming enthusiast: Knows <mark>ggplot2</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages
-      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a personal blog using quarto
+
+  - title: Technical Skillset
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Proficient in R programming: Knows <mark>ggplot2</mark>, <mark>ggpubr</mark>, <mark>ggstatsplot</mark>, <mark>tidyr</mark> and <mark>dplyr</mark> packages
+      - Skilled in statistical modelling using R: <mark>Linear models</mark>, <mark>Generalized linear models</mark>, <mark>Generalized mixed effects models</mark>. Certificates [link](https://github.com/jeweljohnsonj/jewel_resume/tree/main/certificates).
+      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a [personal blog](https://one-carat-blog.netlify.app/) using quarto
       - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark> languages
       - Have an Indian Union Driving licence (4-wheeler and 2-wheeler)
       - Wildlife Photography
       - Presentation and communication skills
+      - Management skills
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -160,8 +166,7 @@ content:
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast: Made beginner’s level [tutorials](https://one-carat-blog.netlify.app/tutorials.html) about <mark>ggplot2</mark> <mark>ggpubr</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages in R.
-      - Created a [tutorials](https://one-carat-blog.netlify.app/tutorials.html) series on "Basic statistics and how to do them in R"
+      - R programming enthusiast: Made tutorials on [data visualization](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Linear_models.pdf), [data wrangling](https://one-carat-blog.netlify.app/tutorials.html#data-manipulation-using-r), [introductory statistics](https://one-carat-blog.netlify.app/tutorials.html#basic-statistics-using-r) and [statistical modelling](https://one-carat-blog.netlify.app/tutorials.html#statisitcal-modelling-using-r).
       - Co-founder of [whatsthisdata](https://twitter.com/whatsthisdata), a Twitter handle promoting science communication through data visualization for the public
       - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safeguarding the greenery on the campus
       - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
@@ -170,6 +175,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [Photographing wildlife](https://bit.ly/3CtjDa1)
+      - Blogging and science communication
       - Badminton
       - Birding
       - Teaching
@@ -177,7 +183,7 @@ content:
       - Listening to music
 
 
-      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_may_2022.pdf).
+      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_aug_2022.pdf).
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
