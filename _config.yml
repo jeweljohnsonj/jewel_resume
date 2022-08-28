@@ -84,8 +84,8 @@ content:
   - title: Technical Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Proficient in R programming: Knows <mark>ggplot2</mark>, <mark>ggpubr</mark>, <mark>ggstatsplot</mark>, <mark>tidyr</mark> and <mark>dplyr</mark> packages
-      - Skilled in statistical modelling using R: <mark>Linear models</mark>, <mark>Generalized linear models</mark>, <mark>Generalized mixed effects models</mark>. Certificates [link](https://github.com/jeweljohnsonj/jewel_resume/tree/main/certificates).
+      - Proficient in R programming: Knows <mark>ggplot2</mark> <mark>ggpubr</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages
+      - Skilled in statistical modelling using R: [Linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Linear_models.pdf), [Generalized linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Generalized_linear_models.pdf), [Generalized mixed effects models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Hierarchical_and_Mixed_effect_modelling.pdf).
       - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a [personal blog](https://one-carat-blog.netlify.app/) using quarto
       - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark> languages
       - Have an Indian Union Driving licence (4-wheeler and 2-wheeler)
