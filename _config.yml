@@ -10,7 +10,7 @@ name: Jewel Johnson
 title: BS-MS Dual Degree in Biological Sciences 
 email: jewel15@alumni.iisertvm.ac.in
 phone: +(91) 8301082500
-# website: https://one-carat-blog.netlify.app/
+# website: https://sciquest.netlify.app/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,7 +34,7 @@ github_username:  jeweljohnsonj
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://one-carat-blog.netlify.app/
+  url: https://sciquest.netlify.app/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -166,7 +166,7 @@ content:
   - title: Extra Curricular Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast: Made tutorials on [data visualization](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Linear_models.pdf), [data wrangling](https://one-carat-blog.netlify.app/tutorials.html#data-manipulation-using-r), [introductory statistics](https://one-carat-blog.netlify.app/tutorials.html#basic-statistics-using-r) and [statistical modelling](https://one-carat-blog.netlify.app/tutorials.html#statisitcal-modelling-using-r).
+      - R programming enthusiast: Made [tutorials](https://sciquest.netlify.app/tutorials.html) on data visualization, data wrangling, introductory statistics and statistical modelling.
       - Co-founder of [whatsthisdata](https://twitter.com/whatsthisdata), a Twitter handle promoting science communication through data visualization for the public
       - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safeguarding the greenery on the campus
       - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
