@@ -7,13 +7,13 @@ version: 2
 
 # Personal info
 name: Jewel Johnson
-title: BS-MS Dual Degree in Biological Sciences 
-email: jewel15@alumni.iisertvm.ac.in
+title: Incoming Ph.D student at Ball State University, USA
+email: jewel.johnson@bsu.edu
 phone: +(91) 8301082500
-# website: https://sciquest.netlify.app/
+website: https://sciquest.netlify.app/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: jeweljohnsonj
@@ -32,9 +32,9 @@ github_username:  jeweljohnsonj
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://sciquest.netlify.app/
+# - title: SciQuest
+#  icon: fas fa-globe
+#  url: https://sciquest.netlify.app/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,12 +49,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jewel Johnson. I completed my master's in Biological Sciences from the Indian Institute of Science Education and Research, Thiruvananthapuram (**IISER-TVM**). My research interests include behavioural ecology, visual ecology, the effect of pollution and climate change on pollinating insects, social behaviour and interactions in social insects. I have experience in doing behavioural experiments with social insects. I am also proficient in R programming and have experience in data visualization, data wrangling and statistical modelling using various packages available in R. I also loves blogging and I have embarked on a journey to document my skills in my blog. Currently, I am looking for PhD positions.
+  My name is Jewel Johnson, and I am pleased to share with you some information about myself. I am an incoming Ph.D. student at Ball State University, Indiana, USA, and I am thrilled to begin my research on embryonic social learning using fathead minnow fish as a model organism. My passion for the study of animal behavior drives me to understand the underlying factors that drive certain behaviors and their ecological implications. Moreover, I have gained significant experience in R programming, particularly in data visualization, data wrangling, and statistical modeling. As a personal endeavor, I have begun to document my acquired skills through tutorial-style blog posts. Not only does this exercise enhance my English writing skills, but it also facilitates my own learning process while benefiting others through sharing my knowledge. In my free time, I enjoy engaging in photography, playing video games, and participating in indoor sports, such as badminton.
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title:  Incoming Ph.D student (Environmental Sciences)
+        caption: Present
+        sub_title: Ball State University, Indiana, USA
       - layout: top-middle
         title:  Integrated BS-MS Dual Degree in Biological Sciences
         caption: August 2015 - August 2020
@@ -62,17 +66,13 @@ content:
         quote: >
           CGPA 8.31/10
       - layout: top-middle
-        title:  Biology with Maths, Class XII
+        title:  Class XII
         caption: August 2013 - June 2015
         sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
-        quote: >
-          Percentage marks: 93%
       - layout: top-middle
         title:  Class X
         caption: June 2013
         sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
-        quote: >
-          Percentage marks: 90%
 
   - title: Experimental Skillset
     layout: text
@@ -86,7 +86,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Proficient in R programming: Knows <mark>ggplot2</mark> <mark>ggpubr</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages
       - Skilled in statistical modelling using R: [Linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Linear_models.pdf), [Generalized linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Generalized_linear_models.pdf), [Generalized mixed effects models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Hierarchical_and_Mixed_effect_modelling.pdf).
-      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a [personal blog](https://one-carat-blog.netlify.app/) using quarto
+      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a [personal blog](https://sciquest.netlify.app/) using quarto
       - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark> languages
       - Have an Indian Union Driving licence (4-wheeler and 2-wheeler)
       - Wildlife Photography
@@ -183,7 +183,7 @@ content:
       - Listening to music
 
 
-      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_aug_2022.pdf).
+      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_aug_2022.pdf). [Last updated on Aug 2022]
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
