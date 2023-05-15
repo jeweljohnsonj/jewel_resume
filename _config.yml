@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jewel Johnson
-title: Incoming Ph.D student at Ball State University, USA
+title: Ph.D student at Ball State University
 email: jewel.johnson@bsu.edu
 phone: +(91) 8301082500
 website: https://sciquest.netlify.app/
@@ -49,30 +49,19 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Jewel Johnson, and I am pleased to share with you some information about myself. I am an incoming Ph.D. student at Ball State University, Indiana, USA, and I am thrilled to begin my research on embryonic social learning using fathead minnow fish as a model organism. My passion for the study of animal behavior drives me to understand the underlying factors that drive certain behaviors and their ecological implications. Moreover, I have gained significant experience in R programming, particularly in data visualization, data wrangling, and statistical modeling. As a personal endeavor, I have begun to document my acquired skills through tutorial-style blog posts. Not only does this exercise enhance my English writing skills, but it also facilitates my own learning process while benefiting others through sharing my knowledge. In my free time, I enjoy engaging in photography, playing video games, and participating in indoor sports, such as badminton.
-
+  My name is Jewel Johnson, and I am pleased to share with you some information about myself. I am a Ph.D. student at Ball State University and will be studying embryonic learning using fathead minnow fish. I am interested in understanding how and why animals behave the way they do. Moreover, I have gained a fair amount of experience in R programming, particularly in data visualization, data wrangling, and statistical modeling. As a personal endeavor, I have begun to document my acquired skills through tutorial-style blog posts. In my free time, I enjoy engaging in photography, read books and participate in outdoor activities. Recently I have been trying to improve my cooking (and eating) skills.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title:  Incoming Ph.D student (Environmental Sciences)
+        title:  Ph.D student (Environmental Sciences)
         caption: Present
         sub_title: Ball State University, Indiana, USA
       - layout: top-middle
         title:  Integrated BS-MS Dual Degree in Biological Sciences
         caption: August 2015 - August 2020
         sub_title: Indian Institute of Science Education and Research Thiruvananthapuram
-        quote: >
-          CGPA 8.31/10
-      - layout: top-middle
-        title:  Class XII
-        caption: August 2013 - June 2015
-        sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
-      - layout: top-middle
-        title:  Class X
-        caption: June 2013
-        sub_title: St. Michael’s Anglo Indian Higher Secondary School Kannur
 
   - title: Experimental Skillset
     layout: text
