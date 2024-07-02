@@ -53,12 +53,12 @@ content:
       - Vijayan, S., Balamurali, G. S., <u>Johnson, J.</u>, Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
 
   - title: Conferences
-    layout: list
+    layout: text
     content:
       - layout: left
         title: Poster Presentations
-        caption: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-        sub_title: Animal Behavior Society Conference 2024 | June 25-30, 2024 | University of Western Ontario, Ontario, Canada
+        sub_title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
+        caption: Animal Behavior Society Conference 2024 | June 25-30, 2024 | University of Western Ontario, Ontario, Canada
         
 # Footer
 footer_show_references: true
