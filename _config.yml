@@ -52,44 +52,44 @@ content:
       - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w).
       - Vijayan, S., Balamurali, G. S., <u>Johnson, J.</u>, Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
 
-- title: Conferences
-  layout: list
-  content:
-    - layout: left
-      title: Poster Presentations
-      content:
-        - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-        - date: June 25-30, 2024
-        - conference: Animal Behavior Society Conference 2024
-        - location: University of Western Ontario, Ontario, Canada
+  - title: Conferences
+    layout: list
+    content:
+      - layout: left
+        title: Poster Presentations
+        content:
+          - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
+          - date: June 25-30, 2024
+          - conference: Animal Behavior Society Conference 2024
+          - location: University of Western Ontario, Ontario, Canada
         
-        - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-        - date: April 5-7, 2024
-        - conference: 2024 ESA Great Lakes Regional Conference
-        - location: Western Michigan University, Kalamazoo, MI, USA
+          - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
+          - date: April 5-7, 2024
+          - conference: 2024 ESA Great Lakes Regional Conference
+          - location: Western Michigan University, Kalamazoo, MI, USA
         
-        - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-        - date: March 29-30, 2024
-        - conference: 31st Annual Animal Behaviour Conference
-        - location: Indiana University Bloomington, IN, USA
+          - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
+          - date: March 29-30, 2024
+          - conference: 31st Annual Animal Behaviour Conference
+          - location: Indiana University Bloomington, IN, USA
         
-        - title: "Visual associative learning in the Greater Banded Hornet (Vespa tropica)"
-        - date: January 2018
-        - conference: Young Ecologists Talk & Interact (YETI) 2018
-        - location: Maharaja Sayajirao University of Baroda, India
+          - title: "Visual associative learning in the Greater Banded Hornet (Vespa tropica)"
+          - date: January 2018
+          - conference: Young Ecologists Talk & Interact (YETI) 2018
+          - location: Maharaja Sayajirao University of Baroda, India
         
-    - layout: left
-      title: Oral Presentations
-      content:
-        - title: "Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee Apis dorsata"
-        - date: June 25-30, 2024
-        - conference: Animal Behavior Society Conference 2024
-        - location: University of Western Ontario, Ontario, Canada
+      - layout: right
+        title: Oral Presentations
+        content:
+          - title: "Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee Apis dorsata"
+          - date: June 25-30, 2024
+          - conference: Animal Behavior Society Conference 2024
+          - location: University of Western Ontario, Ontario, Canada
         
-        - title: "Role of phenylalanine in learning in Asian honeybee (Apis cerana)"
-        - date: March 2019
-        - conference: Second Bangalore Meeting On Asian Bees
-        - location: NCBS Bangalore, India
+          - title: "Role of phenylalanine in learning in Asian honeybee (Apis cerana)"
+          - date: March 2019
+          - conference: Second Bangalore Meeting On Asian Bees
+          - location: NCBS Bangalore, India
         
 # Footer
 footer_show_references: true
