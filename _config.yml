@@ -9,11 +9,10 @@ version: 2
 name: Jewel Johnson
 title: Ph.D student at Ball State University
 email: jewel.johnson@bsu.edu
-phone: +(91) 8301082500
 website: https://sciquest.netlify.app/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 twitter_username: jeweljohnsonj
@@ -28,7 +27,7 @@ github_username:  jeweljohnsonj
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0002-9152-4004
 
 # Additional icon links
 additional_links:
@@ -49,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Jewel Johnson, and I am pleased to share with you some information about myself. I am a Ph.D. student at Ball State University and will be studying embryonic learning using fathead minnow fish. I am interested in understanding how and why animals behave the way they do. Moreover, I have gained a fair amount of experience in R programming, particularly in data visualization, data wrangling, and statistical modeling. As a personal endeavor, I have begun to document my acquired skills through tutorial-style blog posts. In my free time, I enjoy engaging in photography, read books and participate in outdoor activities. Recently I have been trying to improve my cooking (and eating) skills.
+  My name is Jewel Johnson, a first-year Ph.D. student at Ball State University. My research focuses on embryonic communication in fathead minnow fish. I employ behavioral experiments and network based diffusion modeling to explore how embryos interact within a clutch and the sensory pathways involved in these social behaviors.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -63,114 +62,53 @@ content:
         caption: August 2015 - August 2020
         sub_title: Indian Institute of Science Education and Research, Thiruvananthapuram, India
 
-  - title: Experimental Skillset
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Experience in training and handling honeybees and hornets for behavioural experiments
-      - Experience in honeybee keeping and maintaining honeybee colonies
-      - Experience in using spectrophotometer (Maya 2000, Ocean Optics, USA)
-
-  - title: Technical Skillset
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Proficient in R programming: Knows <mark>ggplot2</mark> <mark>ggpubr</mark> <mark>ggstatsplot</mark> <mark>tidyr</mark> and <mark>dplyr</mark> packages
-      - Skilled in statistical modelling using R: [Linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Linear_models.pdf), [Generalized linear models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Generalized_linear_models.pdf), [Generalized mixed effects models](https://github.com/jeweljohnsonj/jewel_resume/blob/main/certificates/Hierarchical_and_Mixed_effect_modelling.pdf).
-      - Familiar with website creation using <mark>Rmarkdown</mark> <mark>distill</mark> and <mark>quarto</mark> packages in R. Made a [personal blog](https://sciquest.netlify.app/) using quarto
-      - Intermediate knowledge in <mark>HTML5</mark> and <mark>CSS</mark> languages
-      - Have an Indian Union Driving licence (4-wheeler and 2-wheeler)
-      - Wildlife Photography
-      - Presentation and communication skills
-      - Management skills
-
-  - title: Research Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Major Degree Thesis
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: IISER-TVM, India
-        caption: May 2019 - April 2020
-        quote: >
-           Visual ecology of the Giant Honey Bee (Apis dorsata)
-        description: | # this will include new lines to allow paragraphs
-            This project was carried out under the supervision of [Prof. Hema Somanathan](https://faculty.iisertvm.ac.in/beelab/). The Giant Honeybee (*Apis dorsata*) is known to be facultative nocturnal species of bees who occasionally forage on flowers during crepuscular and full-moon periods. Despite having day-adapted eyes, it is not known how *A. dorsata* can forage in low light conditions. So my project was aimed at understanding the visual ecology *A. dorsata*.
-
-            During this project, I developed a novel training paradigm for training *A. dorsata* as they are open nesting species that are quite aggressive and cannot be reared or handled in a controlled lab environment. I performed classical conditioning and Y-maze experiments and, conducted video observations. I learned how to use the software [BORIS](http://www.boris.unito.it/) for video analysis. Data analysis and data visualization was done using R.
-      - layout: left
-        title: Semester Project
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: IISER-TVM, India
-        caption: May 2018 - Dec 2018
-        quote: >
-          Morphometric analysis on Asian Bees
-        description: | # this will include new lines to allow paragraphs
-            For this project, I managed and stored around 100 different species of insect specimens and performed basic morphometric measurements on them using the [ImageJ](https://imagej.nih.gov/ij/features.html) software.
-      - layout: left
-        title: Summer Internship
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: IISER-TVM, India
-        caption: May 2018 - Dec 2018
-        quote: >
-          Investigating the role of phenylalanine in the Asian Honeybee (Apis cerana)
-        description: | # this will include new lines to allow paragraphs
-            It is known that honeybees rely on pollen as their primary source of protein and we also know that flowers which are primarily pollinated by honeybees contain a cocktail of amino acids in their nectar. In this project, I investigated the role of phenylalanine, an essential amino acid for honeybees in terms of learning in the Asian Honeybee (*Apis cerana*).
-
-            During this project, I performed classical conditioning experiments and did data analysis using R.
-      - layout: left
-        title: Summer Internship
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: IISER-TVM, India
-        caption: May 2017 - June 2017
-        quote: >
-          Visual associative learning and olfactory preferences of the Greater Banded Hornet (Vespa tropica)
-        description: | # this will include new lines to allow paragraphs
-            The Greater Banded Hornet (*Vespa tropica*) is a hymenopteran predator who is declared as an invasive species by many countries in Europe. They are also generalists who employ a wide variety of foraging strategies which makes them excellent model organisms to study cognition and vision.
-
-            In this study, I performed classical conditioning experiments to study colour and shape learning abilities in *V. tropica*. Later I checked their olfactory preferences by performing a dual choice experiment. The data from the experiments were analyzed using R. I also received first-hand experience in writing the manuscript of this study which was later published in [2021](https://doi.org/10.1007/s00040-021-00820-w). The study also garnered media attention from [The Wire Science](https://science.thewire.in/the-sciences/greater-banded-hornets-vespa-tropica-miriam-lehrer-hema-somanathan/).
-
-  - title: Awards and Honors
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Achieved all India rank of **52** in Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper. GATE score 606 and GATE Reg no: EY20S57226002 (2020)
-      - Achieved all India rank of **91** in Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970). This is the qualifying exam for PhD and lectureship in India. (2019)
-      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
-      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020)
-
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w). (You can email me if you want a copy)
+      - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w).
+      - Vijayan, S., Balamurali, G. S., Johnson, J., Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
 
-  - title: Conferences & Presentations
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **Poster**: Visual associative learning and odour preferences in a hymenopteran predator  <span>&#10072;</span> Biology across kingdoms : School of Biology Symposium and Department day (September 2019)  <span>&#10072;</span> IISER-TVM, India
-      - **Presentation**: Role of phenylalanine in learning in Asian honeybee (*Apis cerana*) <span>&#10072;</span> Second Bangalore Meeting On Asian Bees (March 2019) <span>&#10072;</span> NCBS Bangalore, India
-      - **Poster**: Visual associative learning in the Greater Banded Hornet (*Vespa tropica*) <span>&#10072;</span> Young Ecologists Talk & Interact (YETI) 2018 (January 2018) <span>&#10072;</span> Maharaja Sayajirao University of Baroda, India
+- title: Conferences
+  layout: text
+  content: |
+    # this will include new lines to allow paragraphs
+    - section: Poster
+      events:
+        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+          date: June 25-30, 2024
+          conference: *Animal Behavior Society Conference 2024*
+          location: University of Western Ontario, Ontario, Canada
+        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+          date: April 5-7, 2024
+          conference: *2024 ESA Great Lakes Regional Conference*
+          location: Western Michigan University, Kalamazoo, MI, USA
+        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+          date: March 29-30, 2024
+          conference: *31st Annual Animal Behaviour Conference*
+          location: Indiana University Bloomington, IN, USA
+        - title: **Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)**
+          date: January 2018
+          conference: *Young Ecologists Talk & Interact (YETI) 2018*
+          location: Maharaja Sayajirao University of Baroda, India
+    - section: Presentation
+      events:
+        - title: **Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee *Apis dorsata***
+          date: June 25-30, 2024
+          conference: *Animal Behavior Society Conference 2024*
+          location: University of Western Ontario, Ontario, Canada
+        - title: **Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)**
+          date: March 2019
+          conference: *Second Bangalore Meeting On Asian Bees*
+          location: NCBS Bangalore, India
 
-  - title: Extra Curricular Activities
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - R programming enthusiast: Made [tutorials](https://sciquest.netlify.app/tutorials.html) on data visualization, data wrangling, introductory statistics and statistical modelling.
-      - Co-founder of [whatsthisdata](https://twitter.com/whatsthisdata), a Twitter handle promoting science communication through data visualization for the public
-      - Co-founder of The Ecological Society of IISER-TVM, a student body for promoting environmental awareness and safeguarding the greenery on the campus
-      - Managed [EcoGO](https://bit.ly/3HrInTD), an ambitious project for mapping the entire fauna and flora in IISER-TVM via *iNaturalist*
-
-  - title: Interests and Hobbies
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - [Photographing wildlife](https://bit.ly/3CtjDa1)
-      - Blogging and science communication
-      - Badminton
-      - Birding
-      - Teaching
-      - Trekking and cycling
-      - Listening to music
-
+- title: Awards and Honors
+  layout: text
+  content: |
+    - Student Travel Aspire Grant 2024 from Ball State University - $700 
+    - Qualified Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper (Rank 52). GATE score 606 and GATE Reg no: EY20S57226002 (2020)
+    - Qualified Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970) (Rank 91). This is the qualifying exam for PhD and lectureship in India. (2019)
+    - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
+    - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020). Stiped was 5000 rupees/month for 5 years of study.
 
       For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_aug_2022.pdf). [Last updated on Aug 2022]
 # Footer
