@@ -17,100 +17,75 @@ darkmode: true
 # Social links
 twitter_username: jeweljohnsonj
 github_username:  jeweljohnsonj
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 orcid_username: 0009-0002-9152-4004
 
-# Additional icon links
-additional_links:
-# - title: SciQuest
-#  icon: fas fa-globe
-#  url: https://sciquest.netlify.app/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   My name is Jewel Johnson, a first-year Ph.D. student at Ball State University. My research focuses on embryonic communication in fathead minnow fish. I employ behavioral experiments and network based diffusion modeling to explore how embryos interact within a clutch and the sensory pathways involved in these social behaviors.
+
+# Content sections
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: top-middle
-        title:  Ph.D student (Environmental Sciences)
+        title: Ph.D student (Environmental Sciences)
         caption: Present
         sub_title: Ball State University, Indiana, USA
       - layout: top-middle
-        title:  Integrated BS-MS Dual Degree in Biological Sciences
+        title: Integrated BS-MS Dual Degree in Biological Sciences
         caption: August 2015 - August 2020
         sub_title: Indian Institute of Science Education and Research, Thiruvananthapuram, India
 
   - title: Publications
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w).
       - Vijayan, S., Balamurali, G. S., Johnson, J., Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
 
-- title: Conferences
-  layout: text
-  content: |
-    # this will include new lines to allow paragraphs
-    - section: Poster
-      events:
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: June 25-30, 2024
-          conference: *Animal Behavior Society Conference 2024*
-          location: University of Western Ontario, Ontario, Canada
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: April 5-7, 2024
-          conference: *2024 ESA Great Lakes Regional Conference*
-          location: Western Michigan University, Kalamazoo, MI, USA
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: March 29-30, 2024
-          conference: *31st Annual Animal Behaviour Conference*
-          location: Indiana University Bloomington, IN, USA
-        - title: **Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)**
-          date: January 2018
-          conference: *Young Ecologists Talk & Interact (YETI) 2018*
-          location: Maharaja Sayajirao University of Baroda, India
-    - section: Presentation
-      events:
-        - title: **Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee *Apis dorsata***
-          date: June 25-30, 2024
-          conference: *Animal Behavior Society Conference 2024*
-          location: University of Western Ontario, Ontario, Canada
-        - title: **Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)**
-          date: March 2019
-          conference: *Second Bangalore Meeting On Asian Bees*
-          location: NCBS Bangalore, India
+  - title: Conferences
+    layout: text
+    content: |
+      # this will include new lines to allow paragraphs
+      - section: Poster
+        events:
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: June 25-30, 2024
+            conference: *Animal Behavior Society Conference 2024*
+            location: University of Western Ontario, Ontario, Canada
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: April 5-7, 2024
+            conference: *2024 ESA Great Lakes Regional Conference*
+            location: Western Michigan University, Kalamazoo, MI, USA
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: March 29-30, 2024
+            conference: *31st Annual Animal Behaviour Conference*
+            location: Indiana University Bloomington, IN, USA
+          - title: **Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)**
+            date: January 2018
+            conference: *Young Ecologists Talk & Interact (YETI) 2018*
+            location: Maharaja Sayajirao University of Baroda, India
+      - section: Presentation
+        events:
+          - title: **Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee *Apis dorsata***
+            date: June 25-30, 2024
+            conference: *Animal Behavior Society Conference 2024*
+            location: University of Western Ontario, Ontario, Canada
+          - title: **Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)**
+            date: March 2019
+            conference: *Second Bangalore Meeting On Asian Bees*
+            location: NCBS Bangalore, India
 
-- title: Awards and Honors
-  layout: text
-  content: |
-    - Student Travel Aspire Grant 2024 from Ball State University - $700 
-    - Qualified Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper (Rank 52). GATE score 606 and GATE Reg no: EY20S57226002 (2020)
-    - Qualified Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970) (Rank 91). This is the qualifying exam for PhD and lectureship in India. (2019)
-    - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
-    - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020). Stiped was 5000 rupees/month for 5 years of study.
+  - title: Awards and Honors
+    layout: text
+    content: |
+      - Student Travel Aspire Grant 2024 from Ball State University - $700 
+      - Qualified Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper (Rank 52). GATE score 606 and GATE Reg no: EY20S57226002 (2020)
+      - Qualified Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970) (Rank 91). This is the qualifying exam for PhD and lectureship in India. (2019)
+      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
+      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020). Stiped was 5000 rupees/month for 5 years of study.
 
-      For the pdf version of this resume please click [here](https://github.com/jeweljohnsonj/one-carat-blog/blob/main/cv/jewel_aug_2022.pdf). [Last updated on Aug 2022]
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
