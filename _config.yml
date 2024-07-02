@@ -57,8 +57,8 @@ content:
     content:
       - layout: left
         title: Poster Presentations
-        sub_title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
         caption: Animal Behavior Society Conference 2024 | June 25-30, 2024 | University of Western Ontario, Ontario, Canada
+        sub_title: Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models
         
 # Footer
 footer_show_references: true
