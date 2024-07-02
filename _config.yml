@@ -16,15 +16,22 @@ darkmode: true
 
 # Social links
 twitter_username: jeweljohnsonj
-github_username:  jeweljohnsonj
+github_username: jeweljohnsonj
 orcid_username: 0009-0002-9152-4004
+
+# Additional icon links
+additional_links:
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  My name is Jewel Johnson, a first-year Ph.D. student at Ball State University. My research focuses on embryonic communication in fathead minnow fish. I employ behavioral experiments and network based diffusion modeling to explore how embryos interact within a clutch and the sensory pathways involved in these social behaviors.
-
-# Content sections
+  My name is Jewel Johnson, a first-year Ph.D. student at Ball State University. My research focuses on embryonic communication in fathead minnow fish. I employ behavioral experiments and network-based diffusion modeling to explore how embryos interact within a clutch and the sensory pathways involved in these social behaviors.
 content:
   - title: Education
     layout: list
@@ -42,60 +49,39 @@ content:
     layout: text
     content: |
       - Balamurali, G. S., Reshnuraj, R. S., <u>Johnson, J.</u>, Kodandaramaiah, U., & Somanathan, H. (2021). Visual associative learning and olfactory preferences of the greater banded hornet, Vespa tropica. In Insectes Sociaux (Vol. 68, Issues 2–3, pp. 217–226). Springer Science and Business Media LLC. [https://doi.org/10.1007/s00040-021-00820-w](https://doi.org/10.1007/s00040-021-00820-w).
-      - Vijayan, S., Balamurali, G. S., Johnson, J., Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
+      - Vijayan, S., Balamurali, G. S., <u>Johnson, J.</u>, Kelber, A., Warrant, E. J., & Somanathan, H. (2023). Dim-light colour vision in the facultatively nocturnal Asian giant honeybee, Apis dorsata. In Proceedings of the Royal Society B: Biological Sciences (Vol. 290, Issue 2004). The Royal Society. [https://doi.org/10.1098/rspb.2023.1267](https://doi.org/10.1098/rspb.2023.1267)
 
-- title: Conferences
-  layout: tabs
-  tabs:
-    - title: Poster
-      events:
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: June 25-30, 2024
-          conference: *Animal Behavior Society Conference 2024*
-          location: University of Western Ontario, Ontario, Canada
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: April 5-7, 2024
-          conference: *2024 ESA Great Lakes Regional Conference*
-          location: Western Michigan University, Kalamazoo, MI, USA
-        - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
-          date: March 29-30, 2024
-          conference: *31st Annual Animal Behaviour Conference*
-          location: Indiana University Bloomington, IN, USA
-        - title: **Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)**
-          date: January 2018
-          conference: *Young Ecologists Talk & Interact (YETI) 2018*
-          location: Maharaja Sayajirao University of Baroda, India
-    - title: Presentation
-      events:
-        - title: **Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee *Apis dorsata***
-          date: June 25-30, 2024
-          conference: *Animal Behavior Society Conference 2024*
-          location: University of Western Ontario, Ontario, Canada
-        - title: **Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)**
-          date: March 2019
-          conference: *Second Bangalore Meeting On Asian Bees*
-          location: NCBS Bangalore, India
-
-
-  - title: Awards and Honors
-    layout: text
-    content: |
-      - Student Travel Aspire Grant 2024 from Ball State University - $700 
-      - Qualified Graduate Aptitude Test in Engineering (GATE) 2020 in Ecology and Evolution Paper (Rank 52). GATE score 606 and GATE Reg no: EY20S57226002 (2020)
-      - Qualified Council of Scientific & Industrial Research - Junior Research Fellowship (CSIR-JRF) and National Eligibility Test (NET) Exam 2019 Fellowship (Reg no. 367970) (Rank 91). This is the qualifying exam for PhD and lectureship in India. (2019)
-      - Received best exhibit award for the project presentation on DNA Hard drives in the IISER-TVM Annual Science Fest (2016)
-      - Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship. For 5 years of study in IISER-TVM. (2015-2020). Stiped was 5000 rupees/month for 5 years of study.
+  - title: Conferences
+    layout: tabs
+    tabs:
+      - title: Poster
+        events:
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: June 25-30, 2024
+            conference: *Animal Behavior Society Conference 2024*
+            location: University of Western Ontario, Ontario, Canada
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: April 5-7, 2024
+            conference: *2024 ESA Great Lakes Regional Conference*
+            location: Western Michigan University, Kalamazoo, MI, USA
+          - title: **Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models**
+            date: March 29-30, 2024
+            conference: *31st Annual Animal Behaviour Conference*
+            location: Indiana University Bloomington, IN, USA
+          - title: **Visual associative learning in the Greater Banded Hornet (*Vespa tropica*)**
+            date: January 2018
+            conference: *Young Ecologists Talk & Interact (YETI) 2018*
+            location: Maharaja Sayajirao University of Baroda, India
+      - title: Presentation
+        events:
+          - title: **Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee *Apis dorsata***
+            date: June 25-30, 2024
+            conference: *Animal Behavior Society Conference 2024*
+            location: University of Western Ontario, Ontario, Canada
+          - title: **Role of phenylalanine in learning in Asian honeybee (*Apis cerana*)**
+            date: March 2019
+            conference: *Second Bangalore Meeting On Asian Bees*
+            location: NCBS Bangalore, India
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
