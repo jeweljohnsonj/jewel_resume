@@ -86,3 +86,5 @@ content:
 
 # Footer
 footer_show_references: true
+
+theme: modern-resume-theme
