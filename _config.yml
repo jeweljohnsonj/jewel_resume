@@ -86,5 +86,14 @@ content:
 
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
-theme: modern-resume-theme
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
