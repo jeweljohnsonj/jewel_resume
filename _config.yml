@@ -57,39 +57,8 @@ content:
     content:
       - layout: left
         title: Poster Presentations
-        content:
-        title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-        date: June 25-30, 2024
-        conference: Animal Behavior Society Conference 2024
-        location: University of Western Ontario, Ontario, Canada
-        
-          - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-          - date: April 5-7, 2024
-          - conference: 2024 ESA Great Lakes Regional Conference
-          - location: Western Michigan University, Kalamazoo, MI, USA
-        
-          - title: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
-          - date: March 29-30, 2024
-          - conference: 31st Annual Animal Behaviour Conference
-          - location: Indiana University Bloomington, IN, USA
-        
-          - title: "Visual associative learning in the Greater Banded Hornet (Vespa tropica)"
-          - date: January 2018
-          - conference: Young Ecologists Talk & Interact (YETI) 2018
-          - location: Maharaja Sayajirao University of Baroda, India
-        
-      - layout: right
-        title: Oral Presentations
-        content:
-          - title: "Forage, forage against the dying of the light - nocturnal colour vision in the giant honeybee Apis dorsata"
-          - date: June 25-30, 2024
-          - conference: Animal Behavior Society Conference 2024
-          - location: University of Western Ontario, Ontario, Canada
-        
-          - title: "Role of phenylalanine in learning in Asian honeybee (Apis cerana)"
-          - date: March 2019
-          - conference: Second Bangalore Meeting On Asian Bees
-          - location: NCBS Bangalore, India
+        caption: "Doing what your neighbors do: Finding evidence of social interaction within an egg clutch using network-based diffusion models"
+        sub_title: Animal Behavior Society Conference 2024 | June 25-30, 2024 | University of Western Ontario, Ontario, Canada
         
 # Footer
 footer_show_references: true
